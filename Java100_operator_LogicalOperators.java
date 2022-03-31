@@ -23,3 +23,10 @@ public class Java100_operator_LogicalOperators {
 		System.out.println(!rst4); 	// true
 	}
 }
+
+//1. Arithmetic Operators
+//2 .Assignment Operators
+//3. Relational Operators
+//4. Logical Operators
+//5. Unary Operators
+//6. Bitwise Operators
